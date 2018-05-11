@@ -61,16 +61,7 @@
     "tap": "^10.7.3",
     "validate-commit-msg": "^2.14.0"
   },
-  "optionalDependencies": {
-    "hipchat-notifier": "^1.1.0",
-    "loggly": "^1.1.0",
-    "mailgun-js": "^0.7.0",
-    "nodemailer": "^2.5.0",
-    "redis": "^2.7.1",
-    "slack-node": "~0.2.0",
-    "axios": "^0.15.3",
-    "amqplib": "^0.5.2"
-  },
+  "optionalDependencies": {},
   "browser": {
     "os": false
   },
